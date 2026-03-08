@@ -34,16 +34,24 @@ I am passionate about learning and continuously improving my analytical skills.
 
 ## Projects
 
-### Coffee Shop Sales Analysis
-Analyzed coffee shop sales data to identify trends and insights.
+### # Pizza Sales Analysis
+
+Analyzed pizza sales data to identify trends and insights.
 
 Key insights included:
-- Best selling products
-- Peak sales hours
-- Revenue trends
+- Best selling pizza types
+- Peak order hours
+- Revenue trends by category and size
 
 Tools used:
-Excel / Power BI
+SQL / Power BI
+
+---
+
+## Files
+
+- [View SQL Queries](PIZZA%20SALES.sql)  
+- [Download Power BI Dashboard](pizza%20sales.pbix)
 
 ---
 
