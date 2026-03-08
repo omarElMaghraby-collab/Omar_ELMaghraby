@@ -71,6 +71,7 @@ SQL / Power BI
 
 ## Files
 - [Download Power BI Dashboard](Projects%20Omar%20Mohamed%20Yehia.pbix)
+ - [View SQL Queries](Omar%20Mohamed%20Yehia%20-%20On%2024.sql)  
 - -------------
 
   # Chocolate Sales Analysis
