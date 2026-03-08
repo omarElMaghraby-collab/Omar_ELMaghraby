@@ -70,9 +70,7 @@ SQL / Power BI
 ---
 
 ## Files
-
-- [View SQL Queries](CALL_CENTER.sql)  
-- [Download Power BI Dashboard](call_center_dashboard.pbix)
+- [Download Power BI Dashboard](Projects%20Omar%20Mohamed%20Yehia.pbix)
 ---
 
 
