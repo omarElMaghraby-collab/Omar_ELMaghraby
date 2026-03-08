@@ -53,7 +53,28 @@ SQL / Power BI
 - [View SQL Queries](PIZZA%20SALES.sql)  
 - [Download Power BI Dashboard](pizza%20sales.pbix)
 
+
+# Call Center Analysis
+
+Analyzed call center data to identify trends, performance metrics, and customer insights.
+
+Key insights included:
+- Average call duration and peak call hours
+- Call volume by agent and department
+- Customer satisfaction trends
+- Common issues reported
+
+Tools used:
+SQL / Power BI
+
 ---
+
+## Files
+
+- [View SQL Queries](CALL_CENTER.sql)  
+- [Download Power BI Dashboard](call_center_dashboard.pbix)
+---
+
 
 ## Currently Learning
 
