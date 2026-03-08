@@ -71,6 +71,27 @@ SQL / Power BI
 
 ## Files
 - [Download Power BI Dashboard](Projects%20Omar%20Mohamed%20Yehia.pbix)
+- -------------
+
+  # Chocolate Sales Analysis
+
+Analyzed chocolate sales data to identify trends, customer preferences, and revenue performance.
+
+Key insights included:
+- Best selling chocolate products
+- Peak sales hours and days
+- Revenue trends by category
+- Customer purchase patterns
+
+Tools used:
+Excel / Power BI
+
+---
+
+## Files
+
+- [View Excel Data](TechMind_Excel_1.xlsx)  
+- [Download Power BI Dashboard](Chocolate%20sales%20dashboard.pbix)
 ---
 
 
