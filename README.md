@@ -48,8 +48,8 @@ Tools used:
 Power BI / DAX / Power Query
 ---
 ## Files
-[ Download Excel File ].(Employees%1.xlsx)
-[Download Powerbi file].(HR%Employees%Dashboard.pbix)
+[Download Excel File](Employees%1.xlsx)  
+[Download PowerBI File](HR%Employees%Dashboard.pbix)
 
 ### # Pizza Sales Analysis
 
