@@ -34,6 +34,22 @@ I am passionate about learning and continuously improving my analytical skills.
 
 ## Projects
 
+### # HR Insights & Workforce Analytics
+
+Analyzed comprehensive HR data to provide actionable insights into workforce demographics and payroll efficiency.
+
+Key insights included:
+-Workforce Distribution: Managed data for 689 employees across multiple regions including Egypt, KSA, and UAE.
+-Retention Risk: Identified "High Risk" employees by country to support proactive HR retention strategies.
+-Compensation Analysis: Detailed tracking of a $17M annual payroll and average monthly salaries to ensure market competitiveness.
+-Operational Efficiency: Monitored sick leaves and unpaid leaves across departments to identify patterns affecting productivity.
+
+Tools used:
+Power BI / DAX / Power Query
+---
+## Files
+
+
 ### # Pizza Sales Analysis
 
 Analyzed pizza sales data to identify trends and insights.
